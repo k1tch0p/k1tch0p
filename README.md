@@ -1,5 +1,5 @@
 ## 👋 Hey there, I'm Nassim  
-🎯 *Cybersecurity Student | Penetration Tester | Ethical Hacker*
+🎯 *Information Systems & Technologies Student | Penetration Tester | Ethical Hacker*
 
 ---
 
