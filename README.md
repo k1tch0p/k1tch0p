@@ -1,16 +1,54 @@
-## Hi there 👋
+## 👋 Hey there, I'm Nassim  
+🎯 *Cybersecurity Student | Penetration Tester | Ethical Hacker*
 
-<!--
-**k1tch0p/k1tch0p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- 🎓 Currently pursuing a degree in **Information Systems & Technologies**  
+- 🧩 Passionate about **offensive security, malware analysis, and digital forensics**  
+- 💻 Practicing **penetration testing**, **red teaming**, and **reverse engineering**  
+- 🧰 I enjoy building security tools, automating recon, and analyzing threat behavior  
+- ⚡ Always learning and breaking (ethically) to build stronger systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech & Tools
+**Operating Systems:** Kali Linux · Parrot OS · Windows · Ubuntu . Remnux
+**Pentesting Tools:** Burp Suite · Metasploit · Nmap · Wireshark · BloodHound · netexec
+**Programming / Scripting:** Python · Bash · PowerShell · JavaScript · SQL  
+**Security Fields:** Web Exploitation · Network Security · Malware Analysis · OSINT · Digital Forensics  
+**Labs & Environments:** Hack The Box · FlareVM · VirtualBox · Docker  
+
+---
+
+### 🔐 Current Focus
+- Developing automation scripts for **recon and privilege escalation**
+- Exploring **malware evasion & dynamic analysis techniques**
+- Practicing **CTFs** and **red team simulations**
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nassimnedjar&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nassimnedjar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+- 🕵️ **[AutoReconX](#)** — Automated reconnaissance framework for pentesting  
+- 🧬 **[MalwareLab](#)** — Sandbox for dynamic and static malware analysis  
+- 🌐 **[WebSec-Toolkit](#)** — Collection of scripts for web vulnerability scanning  
+- 🧠 **[CTF-Writeups](#)** — Personal repository of CTF challenges & solutions  
+
+---
+
+### 🌱 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/yourusername)  
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/yourusername)  
+
+---
+
+> *"The quieter you become, the more you are able to hear." — Kali Linux*
