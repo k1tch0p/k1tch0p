@@ -37,10 +37,11 @@
 ---
 
 ### 🧩 Featured Projects
+- 🧠 **[CTF-Writeups](https://k1tch0p.github.io/)** — Personal repository of CTF challenges & solutions
 - 🕵️ **[AutoReconX](#)** — Automated reconnaissance framework for pentesting  
 - 🧬 **[MalwareLab](#)** — Sandbox for dynamic and static malware analysis  
 - 🌐 **[WebSec-Toolkit](#)** — Collection of scripts for web vulnerability scanning  
-- 🧠 **[CTF-Writeups](#)** — Personal repository of CTF challenges & solutions  
+  
 
 ---
 
