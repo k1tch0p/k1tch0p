@@ -13,8 +13,8 @@
 ---
 
 ### 🛠️ Tech & Tools
-**Operating Systems:** Kali Linux · Parrot OS · Windows · Ubuntu . Remnux
-**Pentesting Tools:** Burp Suite · Metasploit · Nmap · Wireshark · BloodHound · netexec
+**Operating Systems:** Kali Linux · Parrot OS · Windows · Ubuntu . Remnux  
+**Pentesting Tools:** Burp Suite · Metasploit · Nmap · Wireshark · BloodHound · netexec  
 **Programming / Scripting:** Python · Bash · PowerShell · JavaScript · SQL  
 **Security Fields:** Web Exploitation · Network Security · Malware Analysis · OSINT · Digital Forensics  
 **Labs & Environments:** Hack The Box · FlareVM · VirtualBox · Docker  
